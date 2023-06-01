@@ -1,1 +1,4 @@
-# uvv_bd1_cc1ma
+# Banco de dados: Lojas UVV
+## PSET1
+## Nome: Talles Martins
+## Professor: Abrantes
